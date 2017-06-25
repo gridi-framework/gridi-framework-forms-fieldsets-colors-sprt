@@ -1,0 +1,32 @@
+{
+    "name": "gridi-framework-forms-fieldsets-colors-sprt",
+    "description": "",
+    "main": "",
+    "authors": [
+        "Przemysław Dziadek <przemyslaw.dziadek@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "gridi",
+        "framework",
+        "colors",
+        "support",
+        "forms",
+        "fieldsets"
+    ],
+    "homepage": "https://github.com/gridi-framework/gridi-framework-forms-fieldsets-colors-sprt",
+    "ignore": [
+        "**/.*",
+        "**/*.md",
+        "**/*.js",
+        "**/*.json",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "gridi-framework-forms-fieldsets": "*",
+        "gridi-framework-colors": "*"
+    }
+}
